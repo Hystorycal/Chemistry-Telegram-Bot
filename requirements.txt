@@ -1,0 +1,8 @@
+python-telegram-bot
+chempy
+mendeleev
+pubchempy
+matplotlib
+requests
+python-dotenv
+numpy
